@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm interested in machine learning and am putting a bit of my time into 'research', or at least my own fun 
+experiments to try and understand some of these mechanisms better.  
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Leave a Disqus comment if you'd like to get in contact for now.
+
+[comment]: <> ([email@domain.com](mailto:email@domain.com))
